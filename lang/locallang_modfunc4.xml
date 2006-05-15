@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description>Language labels of Questionaire statistics Matrix Summary Item wizard</description>
+		<type>module</type>
+		<csh_table></csh_table>
+		<fileId>EXT:pbsurveystatistics/lang/locallang_modfunc4.xml</fileId>
+		<ext_filename_template>EXT:pbsurveystatistics/lang/###LANGKEY###.locallang_modfunc4.xml</ext_filename_template>
+		<labelContext type="array" />
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="moduleFunction">Matrix Summary Item</label>
+		</languageKey>
+	</data>
+</T3locallang>
